@@ -8,11 +8,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on my self
+- 🌱 I’m currently learning Javascript, React.js and Next.js
+- 👯 I’m looking to collaborate on JavaScript projects
+- 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about: Life :)
 - 📫 How to reach me: @sajadoncode
-- 😄 Pronouns: Saajjaad
 - ⚡ Fun fact: JavaScirpt is a small version of Java
